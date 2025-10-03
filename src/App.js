@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h1>☕ Tacos'Ta Menu </h1>
+        <h1>☕ Tacos'Ta Menu 🌮</h1>
   <p> Helloo! Enjoy the cozy vibes of our café and the best drinks with us.</p>
       
     
